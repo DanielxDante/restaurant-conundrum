@@ -24,11 +24,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 ---
-> 
+- 
 
 ## What did we learn from this project?
 ---
-- Using gmpas API for Geographical Analysis
+- Using gmaps API for Geographical Analysis
 - Natural Language Processing Techniques using NLTK, SkLearn's TFIDFVectorizer and Open Source Library Pattern
 - Handling imbalanced datasets using resampling methods
 - Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn 
