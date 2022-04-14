@@ -1,23 +1,44 @@
 # SC1015_SC3_Project
 
 ## All about our project...
-
-
-
-
-
-
-
-
-
-# Marking Rubrics
 ---
-- 10% for coming up with your own problem definition based on a dataset
-- 10% for data preparation and cleaning to suit the problem of your choice
-- 20% for exploratory data analysis/visualization to gather relevant insights
-- 20% for the use of machine learning techniques to solve specific problem
-- 20% for the presentation of data-driven insights and the recommendations
-- 10% for the quality of your final team presentation and overall impressions
-- 10% for learning something new and doing something beyond this course
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on investigating the reasons why an increase in demand for online delivery in metropolitian cities such as Singapore. This
 
-Group Members: Andrew, Daniel, Jonathan
+## Contributors
+---
+> @jonathannghj - Data Augmentation, Data Cleaning, Data Classification Modelling
+> @dantay1706 - Natural Language Processing, Data Classification Modelling
+> @an_drew_xd - EDA
+
+## Problem Definition
+---
+> What are the optimal factors for a restaurant to attract consumers via food delivery service?
+> Which model would be the best to predict it?
+
+## Classification Models Used
+---
+> Logistic Regression
+> K-Nearest Neighbours
+> Random Forest
+> XGBoost Classification
+
+## Conclusion
+---
+> 
+
+## What did we learn from this project?
+---
+> Using gmpas API for Geographical Analysis
+> Natural Language Processing Techniques using NLTK, SkLearn's TFIDFVectorizer and Open Source Library Pattern
+> Handling imbalanced datasets using resampling methods
+> Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn 
+> XGBoost Classification API Usage
+> Handling small datasets using Cross Validation Techniques 
+> Concepts about ROC-AUC, and Classification Report (Precision, Recall and F1 Score)
+
+
+
+## References
+---
+> https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets/notebook
+> https://www.kaggle.com/code/onadegibert/sentiment-analysis-with-tfidf-and-random-forest/notebook
