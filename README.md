@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ---
 - @jonathannghj - Data Resampling, Data Cleaning, Data Classification Modelling
 - @dantay1706 - EDA, Natural Language Processing, Data Classification Modelling
-- @an_drew_xd - EDA, Visualizations
+- @ktnnm - EDA, Visualizations
 
 ## Problem Definition
 ---
