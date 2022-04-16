@@ -48,3 +48,4 @@ The model that produces the best score would be the Random Forest Model. However
 ---
 - https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets/notebook
 - https://www.kaggle.com/code/onadegibert/sentiment-analysis-with-tfidf-and-random-forest/notebook
+- https://intellipaat.com/community/14889/f1-score-vs-roc-auc#:~:text=In%20general%2C%20the%20ROC%20is,area%20under%20the%20ROC%20curve.
