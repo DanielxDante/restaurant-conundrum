@@ -7,8 +7,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 ---
 - @jonathannghj - Data Resampling, Data Cleaning, Data Classification Modelling
-- @dantay1706 - EDA, Natural Language Processing, Data Classification Modelling
-- @an_drew_xd - EDA, Visualizations
+- @DanielxDante - EDA, Natural Language Processing, Data Classification Modelling
+- @ktnnm - EDA, Visualizations
 
 ## Problem Definition
 ---
@@ -24,7 +24,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 ---
--
+The top 3 things that customers look out for in food delivery services are:
+- Ease and convinience of delivery
+- Time saving services
+- Services that have more offers and discounts 
+
+The model that produces the best score would be the Random Forest Model. However, it is possible that the most optimal classification model would be the XGBoost classifier for reasons stated in our walkthrough.
 
 ## What did we learn from this project?
 ---
@@ -35,6 +40,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - XGBoost Classification API Usage
 - Handling small datasets using Cross Validation Techniques
 - Concepts about ROC-AUC, and Classification Report (Precision, Recall and F1 Score)
+- GitHub Collaboration
 
 
 
