@@ -39,7 +39,7 @@ The model that produces the best score would be the Random Forest Model. However
 - Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn
 - XGBoost Classification API Usage
 - Handling small datasets using Cross Validation Techniques
-- Concepts about ROC-AUC, and Classification Report (Precision, Recall and F1 Score)
+- Concepts about ROC-AUC, and F1 Score
 - GitHub Collaboration
 
 
