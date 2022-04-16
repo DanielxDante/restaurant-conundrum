@@ -24,7 +24,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 ---
-The top 3 things that customers look out for in food delivery services are:
+The top 3 things that customers look out for in food delivery services are (of decreasing impact):
 - Ease and convinience of delivery
 - Time saving services
 - Services that have more offers and discounts 
