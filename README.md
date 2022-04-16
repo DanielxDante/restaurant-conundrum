@@ -24,7 +24,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 ---
--
+The top 3 things that customers look out for in food delivery services are:
+- Ease and Convinience of Delivery
+- Time Saving
+- More Offers and Discounts 
+
+The model that produces the best score would be the Random Forest Model. However, it is possible that the most optimal classification model would be the XGBoost model for reasons stated in our walkthrough.
 
 ## What did we learn from this project?
 ---
@@ -35,6 +40,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - XGBoost Classification API Usage
 - Handling small datasets using Cross Validation Techniques
 - Concepts about ROC-AUC, and Classification Report (Precision, Recall and F1 Score)
+- GitHub Collaboration
 
 
 
