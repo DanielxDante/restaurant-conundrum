@@ -34,6 +34,7 @@ The model that produces the best score would be the Random Forest Model. However
 ## What did we learn from this project?
 ---
 - Using gmaps API for Geographical Analysis
+- Visualisations using SweetViz 
 - Natural Language Processing Techniques using NLTK, SkLearn's TFIDFVectorizer and Open Source Library Pattern
 - Handling imbalanced datasets using resampling methods
 - Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn
