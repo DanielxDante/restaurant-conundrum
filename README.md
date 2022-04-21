@@ -29,7 +29,7 @@ The top 3 things that customers look out for in food delivery services are (of d
 - Time saving services
 - Services that have more offers and discounts 
 
-Turns out that people value time and money! :astonished:
+Turns out that people value their time and money! :astonished:
 
 The model that produces the best score would be the Random Forest Model. However, it is possible that the most optimal classification model would be the XGBoost classifier for reasons stated in our walkthrough.
 
