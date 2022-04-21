@@ -29,12 +29,14 @@ The top 3 things that customers look out for in food delivery services are (of d
 - Time saving services
 - Services that have more offers and discounts 
 
+Turns out that people value time and money! :astonished:
+
 The model that produces the best score would be the Random Forest Model. However, it is possible that the most optimal classification model would be the XGBoost classifier for reasons stated in our walkthrough.
 
 ## What did we learn from this project?
 ---
 - Using gmaps API for Geographical Analysis
-- Visualisations using SweetViz 
+- Vizualisations using SweetViz 
 - Natural Language Processing Techniques using NLTK, SkLearn's TFIDFVectorizer and Open Source Library Pattern
 - Handling imbalanced datasets using resampling methods
 - Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn
