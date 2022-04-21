@@ -38,7 +38,7 @@ The model that produces the best score would be the Random Forest Model. However
 - Using gmaps API for Geographical Analysis
 - Vizualisations using SweetViz 
 - Natural Language Processing Techniques using NLTK, SkLearn's TFIDFVectorizer and Open Source Library Pattern
-- Handling imbalanced datasets using resampling methods
+- Handling imbalanced datasets using resampling method SMOTE
 - Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn
 - XGBoost Classification API Usage
 - Handling small datasets using Cross Validation Techniques
