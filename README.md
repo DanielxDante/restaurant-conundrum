@@ -2,7 +2,7 @@
 
 ## All about our project...
 ---
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on investigating the reasons why there is an increase in demand for online delivery in metropolitan cities such as Singapore. Our dataset is set in a metropolitan city in India, Bangalore. All walkthroughs will be on a single file.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on investigating the reasons why there is an increase in demand for online delivery in metropolitan cities such as Singapore. Our dataset is set in a metropolitan city in India, Bangalore. All walkthroughs will be on a single file. (Note: Separate run needed for different methods of NLP used. Details included in the file.)
 
 ## Contributors
 ---
@@ -29,12 +29,14 @@ The top 3 things that customers look out for in food delivery services are (of d
 - Time saving services
 - Services that have more offers and discounts 
 
+Turns out that people value their time and money! :astonished:
+
 The model that produces the best score would be the Random Forest Model. However, it is possible that the most optimal classification model would be the XGBoost classifier for reasons stated in our walkthrough.
 
 ## What did we learn from this project?
 ---
 - Using gmaps API for Geographical Analysis
-- Visualisations using SweetViz 
+- Vizualisations using SweetViz 
 - Natural Language Processing Techniques using NLTK, SkLearn's TFIDFVectorizer and Open Source Library Pattern
 - Handling imbalanced datasets using resampling methods
 - Logistic Regression, KNNeighbours, RandomForest Classification methods using sklearn
