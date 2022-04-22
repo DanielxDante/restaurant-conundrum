@@ -10,7 +10,7 @@ Start by cloning our repository. After doing so, the third cell of our project n
 
 All our code should be executed sequentially, except for the portion on Natural Language Processing under section 5 of our project. As we have two different methods of doing NLP, if you have already executed section 5.1, which is our first method of NLP using NLTK and SkLearn's TFIDFVectorizer, skip section 5.2 and continue with section 6. If you wish to proceed with our second method of NLP using the Pattern library, restart your kernel and execute sequentially again, skipping section 5.1 and execute from section 5.2 onwards.
 
-For our SweetViz and Geographical Map Visualisations, if you experience any trouble viewing it, you can either view it in our slides or from the files placed in our repository under the Visualisations folder.  
+For our SweetViz and Geographical Map Visualisations, if you experience any trouble viewing it, you can view it from the files placed in our repository under the Visualisations folder.  
 
 nbviewer if unable to access our notebook:
 - https://nbviewer.org/github/DanielxDante/SC1015_SC3_Project/blob/main/main.ipynb#start
