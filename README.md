@@ -12,7 +12,7 @@ All our code should be executed sequentially, except for the portion on Natural 
 
 For our SweetViz and Geographical Map Visualisations , if you experience any trouble viewing it, you can either view it in our slides or from the files placed in our repository under the Visualisations folder.  
 
-nbviewer if unable to access file:
+nbviewer if unable to access our notebook:
 - https://nbviewer.org/github/DanielxDante/SC1015_SC3_Project/blob/main/main.ipynb#start
 
 ## Contributors
