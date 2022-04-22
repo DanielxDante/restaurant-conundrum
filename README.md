@@ -1,6 +1,6 @@
 # If you are a restaurant owner, **how** would you make customers come back again?
 
-## All about our project...
+## Welcome!
 ---
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on investigating the main reasons why consumers order again on online delivery platforms in metropolitan cities such as Singapore. Our dataset is set in a metropolitan city in India, Bangalore. All walkthroughs will be on a single file. (Note: Separate run needed for different methods of NLP used. Details included in the file.)
 
