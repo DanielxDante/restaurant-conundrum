@@ -7,7 +7,7 @@
 ---
 Our team's objective is to investigate the main reasons why customers order again on online delivery platforms in a metropolitan city in India, Bangalore.
 
-Taking on the perspective of a restaurant owner, what and how would you change your operations to ensure customers are satisfied and come back again? 
+Taking on the perspective of a restaurant owner, what and how would you change your operations to ensure customers are satisfied and order again? 
 
 ## How to navigate through our project!
 ---
