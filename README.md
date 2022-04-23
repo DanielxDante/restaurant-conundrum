@@ -22,13 +22,6 @@ All our code should be executed sequentially, except for the portion on Natural 
 
 For our SweetViz and Geographical Map Visualisations, if you experience any trouble viewing it, you can view it from the files placed in our repository under the Visualisations folder.  
 
-
-## Contributors
----
-- @jonathannghj - Data Resampling, Data Preparation, Data Classification Modelling
-- @DanielxDante - EDA, Natural Language Processing, Data Classification Modelling
-- @ktnnm - EDA, Visualizations, Presentation
-
 ## Problem Definition
 ---
 - What are the optimal factors for a restaurant to attract consumers via food delivery service?
@@ -64,7 +57,11 @@ The model that produces the best score would be the Random Forest Model. However
 - Concepts about ROC-AUC, and F1 Score
 - GitHub Collaboration
 
-
+## Contributors
+---
+- @jonathannghj - Data Resampling, Data Preparation, Data Classification Modelling
+- @DanielxDante - EDA, Natural Language Processing, Data Classification Modelling
+- @ktnnm - EDA, Visualizations, Presentation
 
 ## References
 ---
