@@ -1,17 +1,22 @@
-# If you are a restaurant owner, how would you make customers come back again?
+# SC1015 Mini-Project
 
+![Presentation Slide 1](https://user-images.githubusercontent.com/77908956/164874614-23a0d199-6666-44f0-941f-a1f807ba5682.png)
 
 
 ## About our project...
 ---
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on investigating the main reasons why consumers order again on online delivery platforms in metropolitan cities such as Singapore. Our dataset is set in a metropolitan city in India, Bangalore. All walkthroughs will be on a single file. (Note: Separate run needed for different methods of NLP used. Details included in the file.)
+Our team's objective is to investigate the main reasons why customers order again on online delivery platforms in a metropolitan city in India, Bangalore.
+
+Taking on the perspective of a restaurant owner, what and how would you change your operations to ensure customers are satisfied and come back again? 
 
 ## How to navigate through our project!
 ---
+All walkthroughs will be on a single file. (Note: Separate run needed for different methods of NLP used. Details included in the file.)
+
 We recommend nbviewer to view our notebook because Github does not support anchor tags:
 - https://nbviewer.org/github/DanielxDante/SC1015_SC3_Project/blob/main/main.ipynb#start
 
-Else, for the whole experience, start by cloning our repository. After doing so, the third cell of our project notebook would contain the Table of Contents. Anchor tags for each segment of our project are inserted for easy access. To access, simply click on the segment you wish to browse (has to be done in the Jupyter Notebook environment). 
+Else, for the whole experience, start by cloning our repository. After doing so, the third cell of our project notebook would contain the Table of Contents. Anchor tags for each segment of our project are inserted for immediate navigation. To access, simply click on the segment you wish to browse (has to be done in the Jupyter Notebook environment). 
 
 All our code should be executed sequentially, except for the portion on Natural Language Processing under section 5 of our project. As we have two different methods of doing NLP, if you have already executed section 5.1, which is our first method of NLP using NLTK and SkLearn's TFIDFVectorizer, skip section 5.2 and continue with section 6. If you wish to proceed with our second method of NLP using the Pattern library, restart your kernel and execute sequentially again, skipping section 5.1 and execute from section 5.2 onwards.
 
