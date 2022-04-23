@@ -70,3 +70,5 @@ The model that produces the best score would be the Random Forest Model. However
 - https://www.kaggle.com/code/qianchao/smote-with-imbalance-data
 - https://www.kaggle.com/code/onadegibert/sentiment-analysis-with-tfidf-and-random-forest/notebook
 - https://intellipaat.com/community/14889/f1-score-vs-roc-auc#:~:text=In%20general%2C%20the%20ROC%20is,area%20under%20the%20ROC%20curve.
+- https://stackabuse.com/calculating-spearmans-rank-correlation-coefficient-in-python-with-pandas/
+- https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131
