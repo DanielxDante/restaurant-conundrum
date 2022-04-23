@@ -1,4 +1,4 @@
-# SC1015 Mini-Project
+# SC1015 Mini-Project - Restaurant Conundrum
 
 ![Presentation Slide 1](https://user-images.githubusercontent.com/77908956/164874614-23a0d199-6666-44f0-941f-a1f807ba5682.png)
 
