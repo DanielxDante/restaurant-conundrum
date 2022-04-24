@@ -36,7 +36,7 @@ For our SweetViz and Geographical Map Visualisations, if you experience any trou
 
 ## Conclusion
 ---
-The top 3 things that customers look out for in food delivery services are (of decreasing impact):
+The top 3 things that customers, majority being university students with ages between 22-25, look out for in food delivery services are (of decreasing impact):
 - Ease and convenience of delivery service
 - Delivery services that save time
 - Restaurants that have more offers and discounts
