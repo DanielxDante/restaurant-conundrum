@@ -39,8 +39,8 @@ Additionally, do note that Grid Search and Cross Validation takes a while to com
 ## Conclusion
 ---
 The top 3 things that customers, majority being university students with ages between 22-25, look out for in food delivery services are (of decreasing impact):
-- Ease and convenience of delivery service
 - Delivery services that save time
+- Ease and convenience of delivery service
 - Restaurants that have more offers and discounts
 
 Turns out that people value their time and money! :astonished:
