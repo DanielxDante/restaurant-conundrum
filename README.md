@@ -22,6 +22,8 @@ All our code should be executed sequentially, except for the portion on Natural 
 
 For our SweetViz and Geographical Map Visualisations, if you experience any trouble viewing it, you can view it from the files placed in our repository under the Visualisations folder.  
 
+Additionally, do note that GridSearchCV takes a while to compute (especially so for XGBoost), so don't panic and be patient when running the cells!
+
 ## Problem Definition
 ---
 - What are the optimal factors for a restaurant to attract consumers via food delivery service?
