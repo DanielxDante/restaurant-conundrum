@@ -22,7 +22,7 @@ All our code should be executed sequentially, except for the portion on Natural 
 
 For our SweetViz and Geographical Map Visualisations, if you experience any trouble viewing it, you can view it from the files placed in our repository under the Visualisations folder.  
 
-Additionally, do note that GridSearchCV and Cross Validation takes a while to compute (especially so for XGBoost), so don't panic and be patient when running the cells!
+Additionally, do note that Grid Search and Cross Validation takes a while to compute (especially so for XGBoost), so don't panic and be patient when running the cells!
 
 ## Problem Definition
 ---
